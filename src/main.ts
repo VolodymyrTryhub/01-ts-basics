@@ -1,1 +1,1 @@
-import "./task-8";
+import "./task-6";
